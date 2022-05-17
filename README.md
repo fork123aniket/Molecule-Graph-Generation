@@ -12,3 +12,8 @@ The current implementation provides three imperative functions:-
 - All hyperparamters to control training, testing, and generation of the molecular graphs are provided in the given `.py` file.
 ## Generated *ZINC* molecule graphs
 `gen_graphs` variable is set to 5 in the current implementation to generate 5 new ***ZINC*** molecule graphs, however, it can be set to any number based on the requirements.
+![alt text](https://github.com/fork123aniket/Molecule-Graph-Generation/blob/main/Images/1.PNG)
+![alt text](https://github.com/fork123aniket/Molecule-Graph-Generation/blob/main/Images/2.PNG)
+![alt text](https://github.com/fork123aniket/Molecule-Graph-Generation/blob/main/Images/3.PNG)
+![alt text](https://github.com/fork123aniket/Molecule-Graph-Generation/blob/main/Images/4.PNG)
+![alt text](https://github.com/fork123aniket/Molecule-Graph-Generation/blob/main/Images/5.PNG)
