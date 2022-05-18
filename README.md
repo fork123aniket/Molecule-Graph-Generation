@@ -8,7 +8,7 @@ This repository aims at providing minimal implementation of Graph Convolutional 
 - `numpy 1.22.3`
 - `networkx 2.7.1`
 ### Data
-***ZINC*** dataset from PyTorch Geometric (PyG) dataset collection is being used here. It contains 12k molecular graphs with 38 heavy atoms. Moreover, for each molecular graph, the node features are the types of heavy atoms and the edge features are the types of bonds between them. Besides, each node in each of the molecular graphs is represents an atom and the edge (link) between any two atoms represents the checmical bonding between them.
+***ZINC*** dataset from PyTorch Geometric (PyG) dataset collection is being used here. It contains 12k molecular graphs with 38 heavy atoms. Moreover, for each molecular graph, the node features are the types of heavy atoms and the edge features are the types of bonds between them. Besides, each node in each of the molecular graphs is represents an atom and the edge (link) between any two atoms represents the chemical bonding between them.
 ### Training, Validation, and Testing
 The current implementation provides three imperative functions:-
 - To train a new network : `train()`
