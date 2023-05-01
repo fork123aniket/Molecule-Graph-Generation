@@ -15,7 +15,7 @@ The current implementation provides three imperative functions:-
 - To validate the network being trained : `val()`
 - To test a preTrained network : `test()`
 - The average loss, area under curve score, and associated average precision for the trained model are printed after every epoch.
-- All hyperparamters to control training and testing of the model, and generation of the molecular graphs are provided in the given `.py` file.
+- All hyperparameters to control training and testing of the model, and generation of the molecular graphs are provided in the given `.py` file.
 ## Generated *ZINC* molecule graphs
 `gen_graphs` variable is set to *5* in the current implementation to generate *5* new ***ZINC*** molecule graphs, however, it can be set to any number based on the requirements.
 ### Generated *ZINC* Molecule 1
